@@ -53,10 +53,9 @@ The aim is to design and simulate a full custom 2:1 multiplexer (MUX) using Cade
 
 ### 3. Transient Response Setup
 
-*![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)*
+<img width="308" height="362" alt="Screenshot 2026-07-24 135713" src="https://github.com/user-attachments/assets/00e8c0c0-c258-43f4-91a7-b4a711c63c63" />
 
-
-![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
+<img width="524" height="377" alt="Screenshot 2026-07-24 134517" src="https://github.com/user-attachments/assets/3fbd9510-f383-44d0-8f05-b06b1b134a4d" />
 
 ## Output
 
